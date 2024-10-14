@@ -1,0 +1,6 @@
+LDA Topics and Top Words:
+Topic 0: 0.041*"God" + 0.011*"man" + 0.011*"fear" + 0.010*"believe" + 0.009*"truth"
+Topic 1: 0.029*"love" + 0.019*"life" + 0.017*"good" + 0.016*"thing" + 0.015*"man"
+Topic 2: 0.020*"like" + 0.014*"know" + 0.013*"say" + 0.010*"think" + 0.010*"want"
+Topic 3: 0.010*"people" + 0.007*"life" + 0.006*"human" + 0.006*"world" + 0.005*"time"
+Topic 4: 0.035*" " + 0.020*"life" + 0.012*"live" + 0.010*"time" + 0.010*"world"
